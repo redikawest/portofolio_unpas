@@ -1,0 +1,23 @@
+{
+  "name": "portofolio_unpas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redikawest/portofolio_unpas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redikawest/portofolio_unpas/issues"
+  },
+  "homepage": "https://github.com/redikawest/portofolio_unpas#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
